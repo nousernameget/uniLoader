@@ -5,6 +5,10 @@ It can be used as an intermediate bootloader, providing a clean booting
 environment in case of a forced and buggy bootloader.
 
 ---
+## What’s new? 
+Added support for Realme Note 50
+
+---
 
 ## Supported Architectures
 - ARMv7
