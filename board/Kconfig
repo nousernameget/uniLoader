@@ -196,6 +196,13 @@ menu "Device Support"
 		depends on UMS9230
 		help
 		  Say Y if you want to include support for Realme C71
+    
+    config REALME_RMX3834
+        bool "Support for Realme Note 50"
+        default n
+        depends on UMS9230
+        help
+          Say Y if you want to include support for Realme Note 50
 
 	config SAMSUNG_A10
 		bool "Support for Samsung Galaxy A10"
