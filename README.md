@@ -22,7 +22,7 @@ make ARCH=$(arch) CROSS_COMPILE=$(toolchain)
 ```
 ---
 
-## Building Example
+## Building Example (for realme Note 50)
 ```bash
 sudo apt install aarch64-linux-gnu
 git clone https://github.com/nousernameget/uniLoader.git
